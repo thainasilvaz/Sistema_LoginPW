@@ -35,10 +35,10 @@
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#" style="color: white">Cadastrar</a>
+          <a class="nav-link active" aria-current="page" href="index.php" style="color: white">Cadastrar</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#" style="color: white">Consultar</a>
+          <a class="nav-link" href="consulta.php" style="color: white">Consultar</a>
         </li>
         </li>
       </ul>
